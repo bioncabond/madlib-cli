@@ -1,7 +1,8 @@
 from sys import exit 
 import re, os
 
-file= "../assets/dark_and_stormy_night_template.txt"
+# file= "../assets/dark_and_stormy_night_template.txt"
+file= "../assets/video_game.txt"
 
 print("""
 *******Welcome to Madlib*******
